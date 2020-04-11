@@ -1,0 +1,96 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+blockquote {
+  background: grey;
+  width: 30%;
+  height: 70px;
+  margin: auto;
+  color: white;
+  font-family: 'Abril Fatface', serif;
+  font-size: 20px;
+  padding: 20px;
+}
+.quotation {
+  width: 26%;
+  background: #222222;
+  height: 80px;
+  margin: auto;
+  position: relative;
+}
+ .quotation_sign {
+  position: absolute;
+  top: 0px;
+  left: 10px;
+  font-size: 55px;
+  font-family: 'Abril Fatface', serif;
+  color: white;
+  }
+
+.quotation_text {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  font-size: 30px;
+  font-family: 'Abril Fatface', serif;
+  color: white;
+  }
+  
+
+h1 {
+  font-family: 'Josefin Sans', serif;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Josefin Sans', serif;
+}
+
+.text_below_pic {
+  margin: auto;
+  width: 50%;
+  font-family: 'Josefin Sans', serif;
+  font-color: #222222;
+}
+
+.notable {
+  margin: auto;
+  width: 50%;
+  font-family: 'Josefin Sans', serif;
+  font-color: #222222;
+  padding: 30px;
+}
+
+.experience {
+  margin: auto;
+  width: 50%;
+  font-family: 'Josefin Sans', serif;
+  font-color: #222222;
+  padding: 30px;
+}
+
+.formal_training {
+  margin: auto;
+  width: 50%;
+  font-family: 'Josefin Sans', serif;
+  font-color: #222222;
+  padding: 30px;
+}
+
+.line {
+  width: 50%;
+  margin: auto;
+  height: 4px;
+  border-bottom: 4px solid black;
+    }
+
+.personal_interest {
+  margin: auto;
+  width: 50%;
+  font-family: 'Josefin Sans', serif;
+  font-color: #222222;
+  padding: 30px;
